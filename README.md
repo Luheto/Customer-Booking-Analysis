@@ -5,7 +5,7 @@ ___
 
 This project analyses customer booking behaviour to identify the strongest drivers of completed bookings and produce actionable recommendations for sales and marketing teams.
 
-High-level findings (see <a href=>Executive Summary.pdf<a/> for the one-page summary):
+High-level findings (see <a href="https://github.com/Luheto/Customer-Booking-Analysis/blob/main/Executive%20Summary.pdf">Executive Summary.pdf<a/> for the one-page summary):
 
 <img width="1136" height="639" alt="Screenshot 2025-10-17 234012" src="https://github.com/user-attachments/assets/17f192a7-cdc6-4498-a082-719a1ec0f093" />
 
@@ -31,7 +31,7 @@ ___
 - Build a predictive model for booking likelihood.
 - Produce business recommendations and next steps for implementation.
 ___
-## Notebook overview (Customer Booking.ipynb)
+## Notebook overview (<a href="https://github.com/Luheto/Customer-Booking-Analysis/blob/main/Customer%20Booking.ipynb">Customer Booking.ipynb<a/>)
 
 The notebook is organized to be reproducible and easy to follow:
 
@@ -57,7 +57,7 @@ ___
 ___
 ## Notes & attribution
 
-The short executive summary is available in the repo as Executive Summary.pdf. 
+The short executive summary is available in the repo as <a href="https://github.com/Luheto/Customer-Booking-Analysis/blob/main/Executive%20Summary.pdf">Executive Summary.pdf<a/>. 
 
 ___
 ## License
@@ -77,6 +77,7 @@ Lusaka, Zambia
   - https://github.com/Luheto/Optimizing-Big-Data-for-Social-Buzz-s-IPO
   - https://github.com/Luheto/Retail-Store-Expansion-Stratergy
   - https://github.com/Luheto/Data-Analysis-Dashboard-Insurance-Claims
+  - https://github.com/Luheto/Price-Sensitivity-and-Customer-Churn
 
 - Email: `<luhetovda@gmail.com>`  
 - LinkedIn: `<linkedin.com/in/luhetovunda>` 
